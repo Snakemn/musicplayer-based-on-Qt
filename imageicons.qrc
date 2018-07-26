@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_geu8z7ksnav/arrow-double-left.png</file>
+        <file>icon_geu8z7ksnav/arrow-double-right.png</file>
+        <file>icon_geu8z7ksnav/close.png</file>
+        <file>icon_geu8z7ksnav/colthes.png</file>
+        <file>icon_geu8z7ksnav/exchange.png</file>
+        <file>icon_geu8z7ksnav/extend.png</file>
+        <file>icon_geu8z7ksnav/line.png</file>
+        <file>icon_geu8z7ksnav/pause.png</file>
+        <file>icon_geu8z7ksnav/单曲循环.png</file>
+        <file>icon_geu8z7ksnav/音符.png</file>
+        <file>icon_geu8z7ksnav/静音.png</file>
+        <file>icon_geu8z7ksnav/声音.png</file>
+        <file>icon_geu8z7ksnav/play.png</file>
+        <file>icon_geu8z7ksnav/07492f030f3856f14309a0f8e084840f.jpg</file>
+        <file>icon_geu8z7ksnav/12346469_2017_20180717-183221.png</file>
+        <file>icon_geu8z7ksnav/6464456456456456ng15gfd.png</file>
+        <file>icon_geu8z7ksnav/符号-中文.png</file>
+    </qresource>
+</RCC>
